@@ -1,1 +1,1 @@
-export const ServerDomain = "https://fampay-branch.heroku.com"
+export const ServerDomain = "http://fampay-branch.herokuapp.com"
